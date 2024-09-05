@@ -7,6 +7,7 @@ namespace Codelab1.Console
         {
             System.Console.WriteLine(Constantes.HelloWorldMsg);
             System.Console.WriteLine(Constantes.funcA);
+            System.Console.WriteLine(Constantes.funcB);
         }
     }
 }
